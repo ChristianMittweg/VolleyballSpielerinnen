@@ -23,7 +23,7 @@ Kategorisierung, ob Kante zu Verein oder Heimatland
 # NODE-Attribute  
   
 ID   
-inzigartige Abkürzung der Spielerinnen, Vereine und Heimatländer   
+Einzigartige Abkürzung der Spielerinnen, Vereine und Heimatländer   
 
 NAME
 Ausgeschriebener Name der Spielerinnen, Vereine und Heimatländer
